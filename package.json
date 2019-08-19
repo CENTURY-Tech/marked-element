@@ -1,11 +1,8 @@
 {
-  "name": "@polymer/marked-element",
+  "name": "marked-element",
+  "version": "2.4.1",
   "private": true,
   "description": "Element wrapper for the marked library",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/PolymerElements/marked-element.git"
-  },
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@polymer/gen-typescript-declarations": "^1.2.2",
